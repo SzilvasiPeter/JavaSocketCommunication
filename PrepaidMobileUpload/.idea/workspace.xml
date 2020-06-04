@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba361295-a0f1-43f9-93c1-9adff614b6e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cqcETG1pHByfgZbyfkNmKtytSy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MSC/2/Információs rendszerek integrálása/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\petis\IdeaProjects\PrepaidMobileUpload" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PrepaidMobileUpload" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba361295-a0f1-43f9-93c1-9adff614b6e8" name="Default Changelist" comment="" />
+      <created>1591259451274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591259451274</updated>
+      <workItem from="1591259456743" duration="18384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="85" y="247" key="#SQL_Dialects" timestamp="1591278694947">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="85" y="247" key="#SQL_Dialects/0.0.1920.1160@0.0.1920.1160" timestamp="1591278694947" />
+    <state x="740" y="327" key="FileChooserDialogImpl" timestamp="1591279830158">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="327" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1591279830158" />
+    <state width="916" height="399" key="GridCell.Tab.0.bottom" timestamp="1591285365609">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365609" />
+    <state width="916" height="399" key="GridCell.Tab.0.center" timestamp="1591285365608">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365608" />
+    <state width="916" height="399" key="GridCell.Tab.0.left" timestamp="1591285365608">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365608" />
+    <state width="916" height="399" key="GridCell.Tab.0.right" timestamp="1591285365609">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365609" />
+    <state width="916" height="399" key="GridCell.Tab.1.bottom" timestamp="1591285365609">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365609" />
+    <state width="916" height="399" key="GridCell.Tab.1.center" timestamp="1591285365609">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365609" />
+    <state width="916" height="399" key="GridCell.Tab.1.left" timestamp="1591285365609">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365609" />
+    <state width="916" height="399" key="GridCell.Tab.1.right" timestamp="1591285365609">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="916" height="399" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1591285365609" />
+    <state x="461" y="223" key="SettingsEditor" timestamp="1591279842194">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="223" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1591279842194" />
+    <state x="223" y="344" key="extract.method.dialog" timestamp="1591283965190">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="223" y="344" key="extract.method.dialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591283965190" />
+    <state x="342" y="201" key="new project wizard" timestamp="1591280487480">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="201" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1591280487480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Server.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
